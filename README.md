@@ -1,7 +1,7 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
 ## Aula do dia 11/09/2019
-[d3_class2/notebook.html](d3_class2/notebook.html)<br>
+[d3_scale/scatterplot.html](d3_scale/scatterplot.html)<br>
 
 ## Aula do dia 04/09/2019
 [d3_intro/notebook.html](d3_intro/notebook.html)<br>
