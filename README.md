@@ -1,5 +1,8 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
+## Aula do dia 16/09/2019
+[d3_update/scatterplot.html](d3_update/scatterplot.html)<br>
+
 ## Aula do dia 11/09/2019
 [d3_scale/scatterplot.html](d3_scale/scatterplot.html)<br>
 
