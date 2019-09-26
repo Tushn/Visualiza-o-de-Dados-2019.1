@@ -1,0 +1,14 @@
+{
+  "name": "@tushn/d3-com-crossfilter-e-dc-js",
+  "main": "d/54b0a1cb79fedbb9.js",
+  "version": "489.0.0",
+  "homepage": "https://observablehq.com/@tushn/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Arturpg987",
+    "url": "https://observablehq.com/@tushn"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

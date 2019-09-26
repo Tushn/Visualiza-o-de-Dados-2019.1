@@ -1,5 +1,8 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
+## Aula do dia 23/09/2019
+[d3_crossfilter/index.html](d3_crossfilter/index.html)<br>
+
 ## Aula do dia 16/09/2019
 [d3_update/scatterplot.html](d3_update/scatterplot.html)<br>
 
