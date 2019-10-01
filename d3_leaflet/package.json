@@ -1,0 +1,14 @@
+{
+  "name": "@tushn/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "main": "d/f3f104ed32b61aa4.js",
+  "version": "348.0.0",
+  "homepage": "https://observablehq.com/@tushn/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "author": {
+    "name": "Arturpg987",
+    "url": "https://observablehq.com/@tushn"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
