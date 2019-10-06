@@ -1,6 +1,9 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
 ## Aula do dia 30/09/2019
+### Crimes em Chicago
+[d3_leaflet/crimes/index.html](d3_leaflet/crimes/index.html)<br>
+### Terremotos na Nova Zelândia
 [d3_leaflet/index.html](d3_leaflet/index.html)<br>
 
 ## Aula do dia 25/09/2019

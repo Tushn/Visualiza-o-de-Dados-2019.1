@@ -1,0 +1,14 @@
+{
+  "name": "@tushn/visualizacao-de-crimes-em-chicago",
+  "main": "d/f19706687f70e7b4.js",
+  "version": "497.0.0",
+  "homepage": "https://observablehq.com/@tushn/visualizacao-de-crimes-em-chicago",
+  "author": {
+    "name": "Arturpg987",
+    "url": "https://observablehq.com/@tushn"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
