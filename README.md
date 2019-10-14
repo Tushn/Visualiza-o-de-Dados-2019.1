@@ -1,7 +1,10 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
 ## Aula do dia 09/10/2019
+### Similar Songs
 [d3_network/index.html](d3_network/index.html)<br>
+### Les Miserables
+[d3_network/les_miserables/index.html](d3_network/les_miserables/index.html)<br>
 
 ## Aula do dia 30/09/2019
 ### Crimes em Chicago

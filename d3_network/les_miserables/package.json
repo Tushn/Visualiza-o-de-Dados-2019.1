@@ -1,0 +1,14 @@
+{
+  "name": "@tushn/les-miserables",
+  "main": "d/f8e76f7bef77918d.js",
+  "version": "173.0.0",
+  "homepage": "https://observablehq.com/@tushn/les-miserables",
+  "author": {
+    "name": "Arturpg987",
+    "url": "https://observablehq.com/@tushn"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
