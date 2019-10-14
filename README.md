@@ -1,5 +1,8 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
+## Aula do dia 09/10/2019
+[d3_network/index.html](d3_network/index.html)<br>
+
 ## Aula do dia 30/09/2019
 ### Crimes em Chicago
 [d3_leaflet/crimes/index.html](d3_leaflet/crimes/index.html)<br>

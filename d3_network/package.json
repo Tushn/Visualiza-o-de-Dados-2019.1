@@ -1,0 +1,14 @@
+{
+  "name": "@tushn/untitled",
+  "main": "d/d0fd89973ffdd6d8.js",
+  "version": "139.0.0",
+  "homepage": "https://observablehq.com/@tushn/untitled",
+  "author": {
+    "name": "Arturpg987",
+    "url": "https://observablehq.com/@tushn"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
