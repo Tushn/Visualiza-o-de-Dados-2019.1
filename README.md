@@ -1,5 +1,11 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
+## Aula do dia 16/10/2019
+### Homicídios em Fortaleza, 2012
+[d3_color/homi/index.html](d3_color/homi/index.html)<br>
+### Taxa de desemprego nos EUA em agosto de 2016
+[d3_color/desemprego_eua/index.html](d3_color/desemprego_eua/index.html)<br>
+
 ## Aula do dia 09/10/2019
 ### Similar Songs
 [d3_network/index.html](d3_network/index.html)<br>
