@@ -1,5 +1,11 @@
 ### Autor: Artur de Oliveira da Rocha Franco
 
+## Aula do dia 23/10/2019
+### D3 com Crossfilter, DC.js e Leaflet (Parte 2) 
+[d3_interactive/crossfilter_leaflet/index.html](d3_interactive/crossfilter_leaflet/index.html)<br>
+### Taxa de desemprego nos EUA em agosto de 2016 (Parte 2) 
+[d3_interactive/taxa_desemprego/index.html](d3_interactive/taxa_desemprego/index.html)<br>
+
 ## Aula do dia 16/10/2019
 ### Homicídios em Fortaleza, 2012
 [d3_color/homi/index.html](d3_color/homi/index.html)<br>
