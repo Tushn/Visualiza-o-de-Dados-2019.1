@@ -1,6 +1,6 @@
 # D3 com Crossfilter, DC.js e Leaflet (Parte 2)
 
-https://observablehq.com/@tushn/d3-com-crossfilter-dc-js-e-leaflet-parte-2@84
+https://observablehq.com/@tushn/d3-com-crossfilter-dc-js-e-leaflet-parte-2@85
 
 View this notebook in your browser by running a web server in this folder. For
 example:
